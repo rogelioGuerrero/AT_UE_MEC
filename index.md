@@ -1,5 +1,5 @@
 ## Bienvenidos al registro de consultores
-<iframe src="https://ee.kobotoolbox.org/i/ShESclja" width="800" height="600"></iframe>
+<iframe src="https://ee.kobotoolbox.org/i/ShESclja" width="800" height="1000"></iframe>
 
 You can use the [editor on GitHub](https://github.com/rogelioGuerrero/AT_UE_MEC/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
