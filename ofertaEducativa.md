@@ -17,7 +17,6 @@
             height: 100%;
             overflow:hidden;
             }
-    </style>Est� conectado y puede ver este cuadro de control.
     <div id="container">
       <div id="viz">
         <div id="tableauViz1">
